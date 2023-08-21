@@ -1,0 +1,23 @@
+<suite name="my suite">
+	
+	<test name="my test">
+		<classes>
+			
+			<class name="day35.Login"/>
+      <class name="day35.testng"/>
+			
+			
+		</classes>
+		
+		
+		
+		
+		
+		
+	</test>
+	
+	
+	
+	
+	
+</suite>
